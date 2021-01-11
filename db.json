@@ -1,0 +1,20 @@
+{
+      "cats": [
+         {
+          "name": "CAT1",
+          "description": "Very sweet gentleman that is quite shy in a shelter environment. He may hide under his blanket upon initial approach, but he is an affectionate lovebug."
+        },
+        {
+          "name": "CAT2",
+          "description": "Friendly and enjoys pets and head rubs. Is known to sit on keyboards and refuses to touch anything with catnip on it."
+        },
+        {
+          "name": "CAT3",
+          "description": "Both bold and extremely sweet. Wastes no time in investigating new smells, objects, and places, but enjoys lazing in the sun!"
+        },
+        {
+          "name": "CAT4",
+          "description": "This playful and spirited cat would like to be outside his kennel and will be so happy when he gets to his forever home with more room to move."
+        }
+      ]
+    }
