@@ -17,5 +17,5 @@
           "description": "This playful and spirited cat would like to be outside his kennel and will be so happy when he gets to his forever home with more room to move."
         }
       ],
-      "fruit" : ["apple", "banana", "orange"]
+      "items" : ["apple", "banana", "orange"]
     }
